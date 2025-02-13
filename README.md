@@ -1,5 +1,7 @@
 # droplets
+
 Capture every moment, celebrate every persistence
+![droplets](./images/22222.png)
 This app is a powerful tool for event tracking and visual management, helping users monitor their daily activities and habit formation in an intuitive and engaging way. Users can create personalized events, such as reading, exercising, or freelancing, and mark them with icons and colors. Each completed event generates a bead representing the activity, which drops into a storage bottle, creating a clear and visualized record of growth and persistence.
 
 Key Features:
